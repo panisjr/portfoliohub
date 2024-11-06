@@ -1,0 +1,6 @@
+.profile {
+    background: url("loginbg.jpg");
+    background-position: center;
+    background-size: cover; /* Makes the background image cover the whole element */
+    background-repeat: no-repeat; /* Prevents tiling if the image is smaller than the container */
+}
